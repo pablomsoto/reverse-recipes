@@ -1,4 +1,4 @@
-package com.reverserecipes.reverserecipes;
+package com.reverserecipes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
