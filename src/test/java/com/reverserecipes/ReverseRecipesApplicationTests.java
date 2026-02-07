@@ -1,4 +1,4 @@
-package com.reverserecipes.reverserecipes;
+package com.reverserecipes;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
